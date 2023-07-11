@@ -4,7 +4,7 @@
 
 2. Clone the project and copy all files in src folder into your dotnet project.
 ```
-git clone 
+git clone https://github.com/Silme94/Advanced-Keylogger
 ```
 3. Download [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json) with [nuget](https://www.nuget.org/downloads) package manager.
 ```
