@@ -10,4 +10,4 @@ git clone https://github.com/Silme94/Advanced-Keylogger
 ```
 dotnet add package Newtonsoft.Json --version 13.0.3
 ```
-4. Build the project (don't forget to put your discord webhook token into the variable 'DISCORD_WEBHOOK').
+4. Build the project (don't forget to put your discord webhook url into the variable 'DISCORD_WEBHOOK').
